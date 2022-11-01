@@ -24,9 +24,3 @@ We aim to model the growth in GDPC1, first by fitting an AR(1) model to the data
 ### Introduction
 ### Dataset
 ### Analysis
-
-<p align="middle">
-  <img src="https://user-images.githubusercontent.com/77609842/197524797-55a7f3a0-3bef-40ba-b6f1-d59c07b5e27d.png" width="70%" />
-  <img src="https://user-images.githubusercontent.com/77609842/197524724-6b5facc7-f8c6-4c14-9f28-9113e39b2840.png" width="70%" />
-</p>
-
